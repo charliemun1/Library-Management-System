@@ -4,43 +4,43 @@ This is a school project from the university
 ##Screenshots
 <p float="left">
   <kbd>
-  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-31-07.png" width="100" />
+  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-31-07.png" width="300" />
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-30-30.png" width="100" />
+  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-30-30.png" width="300" />
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-30-25.png" width="100" />
+  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-30-25.png" width="300" />
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-30-13.png" width="100" />
+  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-30-13.png" width="300" />
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-30-10.png" width="100" />
+  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-30-10.png" width="300" />
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-30-07.png" width="100" />
+  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-30-07.png" width="300" />
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-30-03.png" width="100" />
+  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-30-03.png" width="300" />
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-29-58.png" width="100" />
+  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-29-58.png" width="300" />
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-29-53.png" width="100" />
+  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-29-53.png" width="300" />
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-29-43.png" width="100" />
+  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-29-43.png" width="300" />
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-29-37.png" width="100" />
+  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-29-37.png" width="300" />
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-29-33.png" width="100" />
+  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-29-33.png" width="300" />
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-29-10.png" width="100" />
+  <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-29-10.png" width="300" />
   </kbd>
 </p>
 
