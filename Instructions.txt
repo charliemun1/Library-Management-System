@@ -1,0 +1,17 @@
+CHARLES MUNENE KITHINJI
+ADMISSION: COM/10/17
+
+LIBRARY MANAGEMENT SYSTEM
+LANGUAGE:PHP
+1)unzip lms
+2)save the folder in htdocs for xammp or www for wammp
+3)unzip lms.db
+4)import the lms.db file in mysql
+5)start the server
+6)run localhost/lms in your browser
+
+
+
+
+
+THANK YOU
