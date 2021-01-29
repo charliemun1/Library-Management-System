@@ -1,7 +1,7 @@
 # Library Management System
 This is a school project from the university
 
-##Preview
+## Preview
 <p float="left">
     <kbd>
   <img src="https://github.com/charliemun1/Library-Management-System/blob/main/Screenshots/Screenshot from 2021-01-21 17-29-10.png" width="700" />
